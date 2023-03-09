@@ -3,7 +3,7 @@
 //  THELIST
 //
 //  Created by Nicolas Sedano on 3/3/23.
-//
+// Credit: IOS Academy
 
 import UIKit
 
