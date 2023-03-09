@@ -2,7 +2,7 @@
 //  StartupController.swift
 //  THELIST
 //
-//  Created by Felipe Solorzano on 3/7/23.
+//  Created by Nicolas Sedano on 3/7/23.
 //
 
 import UIKit
