@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  THELIST
 //
-//  Created by Felipe Solorzano on 3/3/23.
-//
+//  Created by Nicolas Sedano on 3/3/23.
+// Credit: IOS Academy
 
 import UIKit
 
